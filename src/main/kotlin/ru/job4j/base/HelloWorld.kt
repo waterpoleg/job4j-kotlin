@@ -1,5 +1,5 @@
 package ru.job4j.base
 
-fun main(args: Array<String>) {
+fun main() {
     println("Hello from Kotlin")
 }
